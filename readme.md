@@ -1,9 +1,9 @@
 ### 一些好看的结果展示： ###
 julia集：  
-<img src='./graph/julia图形/julia_curve42_5000x5000.png' height=250 wight=250></img>
-<img src='./graph/julia图形/julia_curve39_5000x5000.png' height=250 wight=250></img>
-<img src='./graph/julia图形/julia_curve40_5000x5000.png' height=250 wight=250></img>
-<img src='./graph/julia图形/julia_curve36_5000x5000.png' height=250 wight=250></img>
+<img src='./graph/julia图形/julia_curve42_5000x5000.png' height=400 wight=400></img>
+<img src='./graph/julia图形/julia_curve39_5000x5000.png' height=400 wight=400></img>
+<img src='./graph/julia图形/julia_curve40_5000x5000.png' height=400 wight=400></img>
+<img src='./graph/julia图形/julia_curve36_5000x5000.png' height=400 wight=400></img>
 mendelbrot集：  
 <img src='./graph/mendelbrot图形/mendelbrot36 3000 x 3000.png'></img>
 <img src='./graph/mendelbrot图形/2048x2048.gif'></img>
