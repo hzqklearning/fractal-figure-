@@ -13,8 +13,8 @@ mendelbrot集：
 ### 文件说明： ###
 - 代码文件都在code文件夹里  
 - korch_curve.py是雪花曲线，是通过迭代实时生成的，不能直接保存成图片，可直接运行
-- julia.py是$a_{n+1}=a_n^2+c$当c取一固定值，$a_0$变化时由收敛点和发散点形成的图案。可直接运行，将在目录'./graph/julia图形'下生成图片
-- 1.mendelbrot.py是$a_{n+1}=a_n^2+c$当$a_0$取一固定值0，然后c变化时，由收敛点和发散点形成的图案。可直接运行，将在目录'./graph/mendelbrot图形'下生成一张图片，分辨率由num变量设置  
+- julia.py是 $a_{n+1}=a_n^2+c$ 当c取一固定值， $a_0$ 变化时由收敛点和发散点形成的图案。可直接运行，将在目录'./graph/julia图形'下生成图片
+- 1.mendelbrot.py是 $a_{n+1}=a_n^2+c$ 当 $a_0$ 取一固定值0，然后c变化时，由收敛点和发散点形成的图案。可直接运行，将在目录'./graph/mendelbrot图形'下生成一张图片，分辨率由num变量设置  
   2.mendelbrot(一组).py可以生成一组代表不同放大倍数的图片并生成gif图片。可直接运行，同样将在目录'./graph/mendelbrot图形下生成一组图片和gif动图，分辨率由num变量设置    
   3.gif_generate.py是用图片生成gif图片的测试例子(不能直接运行)
 
